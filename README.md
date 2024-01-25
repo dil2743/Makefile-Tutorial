@@ -26,14 +26,3 @@ To clean up the artifacts run the following command from the build_cmake directo
 ```
 make clean
 ```
-
-# Blog List
-
-User can read the blog posts in the following order
-- [Build System: A developers Chauffeur](https://inpyjama.com/build-system-a-developers-chauffeur/)
-
-    This Blog post introduces and explains the significance of a build system. 
-- [Makefile: The Secret Sauce](https://inpyjama.com/makefiles-the-secret-weapon/)
-
-    This Blog post explains the syntax and construct of a MakeFile and how make handles dependency management.
-- [Link text Here](https://link-url-here.org)
